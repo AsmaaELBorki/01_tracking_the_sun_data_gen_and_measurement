@@ -1,6 +1,6 @@
 # Column Role Taxonomy
 
-This architecture classifies every column by role.
+This document classifies every column by role **based on how the data are reported and what they represent**, not on analytical convenience.
 
 Roles are authoritative. They define how a column is allowed to behave analytically.
 Ad-hoc rules are not introduced downstream.
